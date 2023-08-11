@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexsandermessa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Delphi
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Delphi
 - 📫 How to reach me Facebook (www.facebook.com/alexsander.messa)
 
 <!---
